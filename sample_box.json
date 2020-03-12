@@ -1,0 +1,76 @@
+{
+  "type": "skill_invocation",
+  "skill": {
+    "api_key": "hlpq5az3bkxas57s4umd83m6r3l6funs",
+    "id": 879355,
+    "name": "box-test",
+    "type": "skill"
+  },
+  "token": {
+    "read": {
+      "access_token": "1!zAleWrbLZM2P1LPd4LRjv2t0ypKLL1IX1WltQLmFVwu057I6eqPRBE8YrI3csb7f1Zv5ZFaZImSta-9Iydq9A-_kJFredMCUP01y0jQVfKJp_qgN3W2Ios57IDV4zCe17XXzUmO4c3aw6t4QzkhCDLSpceV6YRWSCQ1AnnP4r-esuVTiLVNtSARNxARg049hMfFAahwpCJxQ7F5WZHJe9aPL31KcYPWqxgire6nE9vVfoa22AHB4US5PyfGng-40aiUtTNSSNz9U7CN5DdeEiJ0pLpG9zwjkwtPIHZIFEnK8242KsDgfR7JEy0kKBB5a_8S_RLa4z7arw8v6Rq21a5SXv1s4rMynd5yKYnltpCECzGjatyVFE5wRx8paJ1CRSwQt23SpFYpoUE6bA43SV4VwNIJjJzFRRM2G5vsRqLnAwlzq_KU.",
+      "expires_in": 1576284122,
+      "restricted_to": "[{\"scope\":\"gcm\"},{\"scope\":\"item_read\",\"object_id\":575653958833,\"object_type\":\"file\"}]",
+      "token_type": "bearer"
+    },
+    "write": {
+      "access_token": "1!xDcnMvduSOHpoWnv-qowPSa95fCF_GgoHD8dzIXbkh6ZMPQPf4FKnZnvImn3TjJWUSDottK62fkiIFfa31CiOe_h8wtFo6sqijR2lG1bPgLqT3tH7xRGjHtP_w7STQcg1lbmB6cDOb3nsJZin3JNGTEpXP-FTjvQ_ote4TMdRAyzbe45RHBDpnTExfzfgIZ2x-74XaO8y0-xmoITllHEDivnTYA11Wfnma9GOZ0iwSTAgnE2ywaU05l1wOKZeNCkE-meDbGESbTMo72WnjWynTZUPktYmW53yn4KnxUgLHu-kmESste-dVisvh__hW96Xq7pR5rzc7-Mz9e5MUdFlV-18-LLRVqXNy7W27Pret-E2PccmVJQJo6qEb_qVN0R-4sSQ5TieSyjR861twhJ4O880deiVmCCmpq99HXAbnIlu_iVUg_aqJaXMIkujVe0DFaEXKlEmVO9mq15JEmkiqueMx7dZtyiKRbb6qfCKmoJ",
+      "expires_in": 1576284123,
+      "restricted_to": "[{\"scope\":\"gcm\"},{\"scope\":\"item_upload\",\"object_id\":575653958833,\"object_type\":\"file\"},{\"scope\":\"manage_skill_invocations\"}]",
+      "token_type": "bearer"
+    }
+  },
+  "status": {
+    "state": "invoked",
+    "message": "",
+    "error_code": "",
+    "additional_info": ""
+  },
+  "id": "208757664_1714156878",
+  "created_at": "2019-12-12T16:42:02-08:00",
+  "trigger": "SKILL_APP_TEST_EVENT",
+  "enterprise": {
+    "type": "enterprise",
+    "id": "248886525",
+    "name": ""
+  },
+  "source": {
+    "id": 575653958833,
+    "type": "file",
+    "file_version": {
+      "id": 610373483233
+    },
+    "name": "sample_speech.mp4",
+    "owner_enterprise_id": 248886525,
+    "parent": {
+      "id": 87498223834
+    },
+    "sequence_id": 0,
+    "size": 14917089
+  },
+  "event": {
+    "event_id": "208757664",
+    "created_at": "2019-12-12T16:42:02-08:00",
+    "created_by": {
+      "type": "user",
+      "id": 9950630925,
+      "name": "Samuel Moon",
+      "login": "samuelmoon0712@gmail.com"
+    },
+    "source": {
+      "id": 575653958833,
+      "type": "file",
+      "file_version": {
+        "id": 610373483233
+      },
+      "name": "sample_speech.mp4",
+      "owner_enterprise_id": 248886525,
+      "parent": {
+        "id": 87498223834
+      },
+      "sequence_id": 0,
+      "size": 14917089
+    }
+  },
+  "parameters": {}
+}

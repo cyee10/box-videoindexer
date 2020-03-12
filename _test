@@ -1,0 +1,102 @@
+{
+    partition: null,
+    description: null,
+    privacyMode: 'Public',
+    state: 'Processed',
+    accountId: '83d244e8-13f2-4d39-acfe-dfa51111d4b9',
+    id: 'cb348f55e5',
+    name: 'sample_speech',
+    userName: 'Samuel Moon',
+    created: '2019-12-09T07:38:15.5820409+00:00',
+    isOwned: false,
+    isEditable: false,
+    isBase: true,
+    durationInSeconds: 128,
+    summarizedInsights: {
+      name: 'sample_speech',
+      id: 'cb348f55e5',
+      privacyMode: 'Public',
+      duration: { time: '0:02:08.576', seconds: 128.6 },
+      thumbnailVideoId: 'cb348f55e5',
+      thumbnailId: 'fcf0bd6b-6039-4bb6-9c99-0465edc1031a',
+      faces: [
+        [Object], [Object],
+        [Object], [Object],
+        [Object], [Object],
+        [Object], [Object]
+      ],
+      keywords: [
+        [Object], [Object],
+        [Object], [Object],
+        [Object], [Object],
+        [Object], [Object],
+        [Object], [Object],
+        [Object], [Object],
+        [Object], [Object],
+        [Object], [Object],
+        [Object]
+      ],
+      sentiments: [ [Object], [Object], [Object] ],
+      emotions: [],
+      audioEffects: [ [Object] ],
+      labels: [
+        [Object], [Object],
+        [Object], [Object],
+        [Object], [Object],
+        [Object], [Object],
+        [Object], [Object]
+      ],
+      framePatterns: [ [Object], [Object] ],
+      brands: [],
+      namedLocations: [ [Object] ],
+      namedPeople: [],
+      statistics: {
+        correspondenceCount: 6,
+        speakerTalkToListenRatio: [Object],
+        speakerLongestMonolog: [Object],
+        speakerNumberOfFragments: [Object],
+        speakerWordCount: [Object]
+      },
+      topics: [
+        [Object], [Object],
+        [Object], [Object],
+        [Object], [Object],
+        [Object], [Object],
+        [Object], [Object],
+        [Object], [Object],
+        [Object], [Object]
+      ]
+    },
+    videos: [
+      {
+        accountId: '83d244e8-13f2-4d39-acfe-dfa51111d4b9',
+        id: 'cb348f55e5',
+        state: 'Processed',
+        moderationState: 'OK',
+        reviewState: 'None',
+        privacyMode: 'Public',
+        processingProgress: '100%',
+        failureCode: 'None',
+        failureMessage: '',
+        externalId: null,
+        externalUrl: null,
+        metadata: null,
+        insights: [Object],
+        thumbnailId: 'fcf0bd6b-6039-4bb6-9c99-0465edc1031a',
+        detectSourceLanguage: false,
+        languageAutoDetectMode: 'None',
+        sourceLanguage: 'en-US',
+        sourceLanguages: [Array],
+        language: 'en-US',
+        languages: [Array],
+        indexingPreset: 'Default',
+        linguisticModelId: '00000000-0000-0000-0000-000000000000',
+        personModelId: '00000000-0000-0000-0000-000000000000',
+        isAdult: false,
+        publishedUrl: 'https://rodmandev.streaming.mediaservices.windows.net/8545f119-3cbb-4e90-a558-5b0c310fda16/sample_speech.ism/manifest(encryption=cbc)',
+        publishedProxyUrl: null,
+        viewToken: 'Bearer=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cm46bWljcm9zb2Z0OmF6dXJlOm1lZGlhc2VydmljZXM6Y29udGVudGtleWlkZW50aWZpZXIiOiIxNWY2OTM5YS01OWJmLTRjM2UtOTY0YS1hZGFiNzJiODVhOWQiLCJpc3MiOiJodHRwczovL2JyZWFrZG93bi5tZSIsImF1ZCI6IkJyZWFrZG93blVzZXIiLCJleHAiOjE1NzYwOTQxMDcsIm5iZiI6MTU3NjA1MDg0N30.R4y6wKaBH1kqL0xfY7afShOKlMVM1EbGDtADo8GBR8E'
+      }
+    ],
+    videosRanges: [ { videoId: 'cb348f55e5', range: [Object] } ]
+  }
