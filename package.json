@@ -13,7 +13,9 @@
     "path": "^0.12.7",
     "url-template": "^2.0.8"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "serverless": "^1.66.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "rm function.zip && zip function.zip * -i lambda.js package.json package-lock.json skills-kit-2.0.js video-indexer.js email.js && aws lambda update-function-code --function-name my-function --zip-file fileb://function.zip",
