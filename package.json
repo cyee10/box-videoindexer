@@ -9,7 +9,7 @@
     "jest": "^24.9.0",
     "jimp": "^0.9.3",
     "lodash": "^4.17.15",
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "path": "^0.12.7",
     "url-template": "^2.0.8"
   },
