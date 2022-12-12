@@ -5,7 +5,7 @@
   "dependencies": {
     "aws-sdk": "^2.595.0",
     "box-node-sdk": "^1.30.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jest": "^24.9.0",
     "jimp": "^0.9.3",
     "lodash": "^4.17.15",
